@@ -17,19 +17,11 @@ This repository organizes these responses in a readable and reusable format to s
 
 ## 🗂 Structure
 
-The data is organized into **folders named after the API endpoints**, for example:
+The data is organized into folder **data/namedEndpoint.json**, for example:
 
-/regions
-/plans
-/instances
-/os
-/sshkeys
-
-
-Each folder contains `.json` files with the corresponding API responses. For example:
-
-/regions/regions.json
-/os/operating_systems.json
+/data/regions.json
+/data/plans.json
+/data/os.json
 
 
 ## 📦 Format

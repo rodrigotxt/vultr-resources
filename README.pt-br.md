@@ -17,20 +17,11 @@ Este repositório organiza essas informações de forma legível e reutilizável
 
 ## 🗂 Estrutura
 
-Os dados estão organizados em **pastas nomeadas conforme os endpoints da API**, por exemplo:
+Os dados estão organizados em **data/nomeEndpoint**, por exemplo:
 
-/regions
-/plans
-/instances
-/os
-/sshkeys
-
-
-Cada pasta contém arquivos `.json` com o retorno da API correspondente. Exemplo:
-
-/regions/regions.json
-/os/operating_systems.json
-
+/data/regions.json
+/data/plans.sjon
+/data/os.json
 
 ## 📦 Formato
 
