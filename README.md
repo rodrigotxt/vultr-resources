@@ -20,7 +20,9 @@ This repository organizes these responses in a readable and reusable format to s
 The data is organized into folder **data/namedEndpoint.json**, for example:
 
 /data/regions.json
+
 /data/plans.json
+
 /data/os.json
 
 
