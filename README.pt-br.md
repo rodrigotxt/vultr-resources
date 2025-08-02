@@ -38,7 +38,7 @@ Todos os arquivos estão no **formato JSON**, exatamente como retornados pela AP
 
 ## 🔁 Atualização
 
-Os dados podem ser atualizados periodicamente conforme alterações na API da Vultr, garantindo que os recursos estejam sempre atualizados.
+Os dados podem ser atualizados periodicamente conforme alterações na API da Vultr, garantindo que os recursos estejam sempre atualizados. Para verificar a documentação oficial acesse: https://www.vultr.com/api/
 
 ## 🛠 Uso Sugerido
 

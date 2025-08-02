@@ -38,7 +38,7 @@ All files are in **raw JSON format**, exactly as returned by Vultr's API. This m
 
 ## 🔁 Updates
 
-Data may be updated periodically to reflect changes in Vultr's API, ensuring that the references remain current.
+Data may be updated periodically to reflect changes in Vultr's API, ensuring that the references remain current. Official API documentation: https://www.vultr.com/api/
 
 ## 🛠 Suggested Use
 
