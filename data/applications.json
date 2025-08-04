@@ -207,15 +207,6 @@
     "image_id": "nirvashare"
   },
   {
-    "id": 1092,
-    "name": "OpenVPN Access Server",
-    "short_name": "openvpn_access_server",
-    "deploy_name": "OpenVPN Access Server on Ubuntu 22.04",
-    "type": "marketplace",
-    "vendor": "openvpninc",
-    "image_id": "openvpn"
-  },
-  {
     "id": 1094,
     "name": "ONLYOFFICE Workspace",
     "short_name": "onlyoffice_workspace",
